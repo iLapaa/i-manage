@@ -1,0 +1,8 @@
+{
+  "name": "i-manage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "ed933236"
+}

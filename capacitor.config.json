@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "i-manage",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
