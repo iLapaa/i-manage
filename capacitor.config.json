@@ -1,5 +1,5 @@
 {
-	"appId": "io.ionic.starter",
+	"appId": "io.i-manage.starter",
 	"appName": "i-manage",
 	"webDir": "build",
 	"bundledWebRuntime": false
